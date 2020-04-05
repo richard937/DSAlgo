@@ -74,3 +74,14 @@ This is a topic wise practice material for DSA
 6. [factorial tail recursion](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)
 7. [check palindrome string](https://practice.geeksforgeeks.org/problems/palindrome-string/0)
 8. [Josephus problem](https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0) 
+
+## *BINARY SEARCH*
+
+1. [first and last occurrences](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) and [gfg](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
+2. [count the occurrence of an element in a sorted array](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0)
+3. [count 1s in a sorted binary array](https://www.geeksforgeeks.org/count-1s-sorted-binary-array/)
+4. [find an element in an infinite size sorted array](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+5. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) and [gfg](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0)
+5. [find an element in an rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) and [gfg](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
+6. [find the peak elements](https://leetcode.com/problems/find-peak-element/submissions/) and [gfg](https://practice.geeksforgeeks.org/problems/peak-element/1)
+7. [find square root](https://leetcode.com/problems/sqrtx/)

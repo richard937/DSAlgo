@@ -21,9 +21,11 @@ This is a topic wise practice material for DSA
 16. [Prefix Sum](https://practice.geeksforgeeks.org/problems/form-largest-number-from-digits/0/)
 17. [smallest window](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0) 
 
+
  ## *HASHING*
 
-1. [find subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) [also this](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0/)
+1. [find subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) 
+2. [count subarray with 0 sum](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0/)
 2. [find largest/smallest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 3. [find subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-range-with-given-sum/0)
 4. [find largest/smallest subarray with given sum NO](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)[gfg link](https://www.geeksforgeeks.org/longest-subarray-sum-elements-atmost-k/)

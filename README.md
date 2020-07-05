@@ -21,8 +21,7 @@ This is a topic wise practice material for DSA
 16. [Prefix Sum](https://practice.geeksforgeeks.org/problems/form-largest-number-from-digits/0/)
 17. [smallest window](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0) 
 
-
- ## *HASHING*
+## *HASHING*
 
 1. [find subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) 
 2. [count subarray with 0 sum](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0/)
@@ -33,25 +32,23 @@ This is a topic wise practice material for DSA
 6. [in unsorted array find pair with given sum](https://leetcode.com/problems/two-sum/)[gfg link](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum/0)
 7. [swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
 8. [count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
-8. []()
+8. [array pair sum divisibility problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+8. [Longest consecutive subsequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+8. [array subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
+8. [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+8. [Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
+8. [Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
+8. [Check if two arrays are equal or nor](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
+8. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
+8. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+8. [Smallest window in a string containing all the characters of another string ](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+8. [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
+8. [Double Hashing](https://www.geeksforgeeks.org/double-hashing/)
+8. [2 Sum problem](https://leetcode.com/problems/two-sum/)
+8. [4 Sum problem](https://leetcode.com/problems/4sum/)
+8. [Longest substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+8. [Count number of subarrays with given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
+8. [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 
 
 ### *MORE...*

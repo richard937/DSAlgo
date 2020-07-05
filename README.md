@@ -23,7 +23,7 @@ This is a topic wise practice material for DSA
 
 ## *HASHING*
 
-8. [Check if two arrays are equal or nor](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
+1. [Check if two arrays are equal or nor](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
 8. [array subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
 8. [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 8. [Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)

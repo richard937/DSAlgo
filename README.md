@@ -118,6 +118,8 @@ This is a topic wise practice material for DSA
 2. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 3. [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 3. [Identical Trees](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+3. [Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+16. [construct from pre and in order](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 3. [children sum tree](https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/)
 8. [insert](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)
 6. [predecessor and successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1/)

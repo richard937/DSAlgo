@@ -147,6 +147,16 @@ This is a topic wise practice material for DSA
 16. [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
 17. [Construct Binary Tree from Parent Array](https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1)
 
+
+## *HEAP*
+
+1. [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+2. [Nearly sorted](https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1/)
+3. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1/)
+4. [Merge k Sorted Arrays](https://leetcode.com/problems/merge-k-sorted-lists/)
+5. [K Most occurring elements](https://leetcode.com/problems/top-k-frequent-elements/)
+6. [Find median in a stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
 ## *DP*
 
 1. [fibonacci](https://leetcode.com/problems/fibonacci-number)

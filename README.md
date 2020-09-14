@@ -157,6 +157,12 @@ This is a topic wise practice material for DSA
 5. [K Most occurring elements](https://leetcode.com/problems/top-k-frequent-elements/)
 6. [Find median in a stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
+## *GRAPH*
+1. [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+2. [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+3. [directed graph contains cycle](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/)
+4. [undirected graph contains cycle](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+
 ## *DP*
 
 1. [fibonacci](https://leetcode.com/problems/fibonacci-number)

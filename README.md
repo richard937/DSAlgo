@@ -6,6 +6,7 @@ This is a topic wise practice material for DSA
 1. [leader in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 2. [trapping rain water](https://leetcode.com/problems/trapping-rain-water)
 3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+4. [sort array of 0's, 1's and 2's](https://leetcode.com/problems/sort-colors/)
 6. [max sum of consecutive k elements](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k/0)
 7. (a)[finding subarray of size k with given sum](https://www.geeksforgeeks.org/subarray-of-size-k-with-given-sum/) <br>
    (b)[Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-range-with-given-sum/0)

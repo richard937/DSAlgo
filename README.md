@@ -116,12 +116,14 @@ This is a topic wise practice material for DSA
 
 1. [Middle element](https://leetcode.com/problems/middle-of-the-linked-list/) and [gfg](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 2. [Reverse](https://leetcode.com/problems/reverse-linked-list/) and [gfg](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
-3. [Palindrome Check](https://leetcode.com/problems/palindrome-linked-list/)
+3. [Palindrome Check](https://leetcode.com/problems/palindrome-linked-list/) and [gfg](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
 4. [Remove numbers](https://leetcode.com/problems/remove-linked-list-elements/)
+5. [Remove Nth node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 5. [Delete a node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 5. [Merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists/)
 6. [find the Intersection point](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 7. [cycle detection](https://leetcode.com/problems/linked-list-cycle/)
+9. [add two numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ## *TREE*
 1. [Inorder](https://practice.geeksforgeeks.org/problems/inorder-traversal/1)

@@ -121,9 +121,9 @@ This is a topic wise practice material for DSA
 5. [Remove Nth node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 5. [Delete a node](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 5. [Merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists/)
-6. [find the Intersection point](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-7. [cycle detection](https://leetcode.com/problems/linked-list-cycle/)
-9. [add two numbers](https://leetcode.com/problems/add-two-numbers/)
+6. [find the Intersection point](https://leetcode.com/problems/intersection-of-two-linked-lists/) and [gfg](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+7. [cycle detection](https://leetcode.com/problems/linked-list-cycle/) and [gfg](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+9. [add two numbers](https://leetcode.com/problems/add-two-numbers/) and [gfg](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 
 ## *TREE*
 1. [Inorder](https://practice.geeksforgeeks.org/problems/inorder-traversal/1)

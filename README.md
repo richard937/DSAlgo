@@ -103,6 +103,7 @@ This is a topic wise practice material for DSA
 
 ## *BINARY SEARCH*
 
+1. [binary search](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1)
 1. [first and last occurrences](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) and [gfg](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 2. [count the occurrence of an element in a sorted array](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0)
 3. [count 1s in a sorted binary array](https://www.geeksforgeeks.org/count-1s-sorted-binary-array/)

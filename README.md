@@ -64,8 +64,8 @@ This is a topic wise practice material for DSA
 ## *BIT MAGIC*
 
 1. [check if Kth bit is set](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0)
-2. [check power of 2](https://leetcode.com/problems/power-of-two/)
-3. [counting set bits in integer](https://leetcode.com/problems/number-of-1-bits/)
+2. [check power of 2](https://leetcode.com/problems/power-of-two/) and [gfg](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)
+3. [counting set bits in integer](https://leetcode.com/problems/number-of-1-bits/) and [gfg](https://practice.geeksforgeeks.org/problems/set-bits/0)
 4. [find the odd repeating element in array](https://leetcode.com/problems/single-number/)
 5. [find two odd repeating element in array](https://www.geeksforgeeks.org/find-two-missing-numbers-set-2-xor-based-solution/)
 6. [generate power set which contain all the subsets](https://practice.geeksforgeeks.org/problems/power-set/0)

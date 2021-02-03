@@ -30,7 +30,6 @@ This is a topic wise practice material for DSA
 8. [Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 8. [Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
 8. [Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
-8. [Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
 8. [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 1. [find subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0) 
 2. [count subarray with 0 sum](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0/)

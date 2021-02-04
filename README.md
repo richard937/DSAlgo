@@ -77,7 +77,7 @@ This is a topic wise practice material for DSA
 ## *STRING*
 
 1. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-2. [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/)
+2. [Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/) and [gfg](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)
 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 4. [Rabin Karp](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 1. [given 2 strings check anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
